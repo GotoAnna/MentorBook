@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         courseLabel.text = mentorArray[index].course
     }
 
+    
     @IBAction func mae()
     {
         if index == 0{
